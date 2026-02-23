@@ -77,4 +77,3 @@ Signal processing and feature extraction applied to rotating machinery for condi
 
 LinkedIn: www.linkedin.com/in/salvador-sánchez-del-val  
 Email: salvadorsdv23@gmail.com
--->
