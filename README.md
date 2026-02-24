@@ -1,5 +1,5 @@
 # Salvador Sánchez  
-Industrial Engineer | Industrial IoT & Predictive Maintenance | Critical Infrastructure  
+Industrial Engineer 4.0 | Industrial IoT & Predictive Maintenance | Critical Infrastructure  
 
 ---
 
