@@ -11,5 +11,5 @@ Background in data centers and real electromechanical maintenance. Focused on as
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/salvador-sánchez-del-val  
+LinkedIn: www.linkedin.com/in/salvador-sanchez-del-val  
 Email: salvadorsdv23@gmail.com
